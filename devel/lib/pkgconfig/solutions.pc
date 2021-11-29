@@ -1,0 +1,8 @@
+prefix=/home/user/ros_assignment/devel
+
+Name: solutions
+Description: Description of solutions
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
